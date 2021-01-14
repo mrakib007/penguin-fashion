@@ -13,3 +13,14 @@
 .text2{
     color: #f27935;
 }
+.padding{
+ justify-content: space-between;
+}
+
+.image-sect{
+    width: 70px;
+    height: auto;
+}
+.colors{
+    background-color: #e8e8e8;
+}
